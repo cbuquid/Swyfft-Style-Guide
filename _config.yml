@@ -19,3 +19,4 @@ github_username:  bradfrost
 
 # Build settings
 markdown: kramdown
+root: /octo-5

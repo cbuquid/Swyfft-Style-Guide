@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Data entry
+title: Stock Photos
 group: guidelines
-permalink: /guidelines/data-entry.html
-description: High-level form guidelines
+permalink: /guidelines/photos.html
+description: Guidelines for choosing stock photos and downloads.
 
 ---
 

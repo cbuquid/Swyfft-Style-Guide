@@ -1,10 +1,10 @@
 ---
 layout: page
 type: detail
-title: Data display
+title: Illustrations
 group: guidelines
-permalink: /guidelines/data-display.html
-description: Presenting quick, actionable data
+permalink: /guidelines/illustrations.html
+description: Standard illustration styles and downloads
 
 ---
 

@@ -1,10 +1,10 @@
 ---
 layout: page
 type: detail
-title: Accessibility
+title: Typography
 group: guidelines
-permalink: /guidelines/accessibility.html
-description: Describe the design system's approach to accessibility
+permalink: /guidelines/typography.html
+description: Font families and base sizes
 
 ---
 

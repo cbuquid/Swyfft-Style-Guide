@@ -1,10 +1,10 @@
 ---
 layout: page
 type: detail
-title: Data validation
+title: Voice & Tone
 group: guidelines
-permalink: /guidelines/data-validation.html
-description: Guidelines around validating data
+permalink: /guidelines/marketing.html
+description: Guidelines and brand voice and tone
 
 
 ---
